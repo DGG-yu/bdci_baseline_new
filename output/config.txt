@@ -1,0 +1,11 @@
+base_path = ./dataset
+bert_config_path = ./pretrain_models/config.json
+bert_model_path = ./pretrain_models/pytorch_model.bin
+bert_vocab_path = ./pretrain_models/vocab.txt
+cuda_id = 1
+dataset = bdci
+fix_bert_embeddings = False
+max_len = 200
+output_path = output
+rounds = 4
+test_batch_size = 1

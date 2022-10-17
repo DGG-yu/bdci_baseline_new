@@ -1,0 +1,12 @@
+epoch:0	loss:415.167958	f1:0.000000	precision:1.000000	recall:0.000000	best_f1:0.000000	
+epoch:0	loss:242.143018	f1:0.000000	precision:1.000000	recall:0.000000	best_f1:0.000000	
+test： f1:0.000000	precision:1.000000	recall:0.000000
+epoch:0	loss:437.201428	f1:0.000000	precision:1.000000	recall:0.000000	best_f1:0.000000	
+epoch:1	loss:64.185884	f1:0.000000	precision:1.000000	recall:0.000000	best_f1:0.000000	
+epoch:2	loss:63.220908	f1:0.000000	precision:1.000000	recall:0.000000	best_f1:0.000000	
+test： f1:0.000000	precision:1.000000	recall:0.000000
+epoch:0	loss:284.138670	f1:0.252405	precision:0.200630	recall:0.340198	best_f1:0.252405	
+epoch:1	loss:20.576202	f1:0.456086	precision:0.460700	recall:0.451564	best_f1:0.456086	
+epoch:2	loss:12.818481	f1:0.577335	precision:0.559371	recall:0.596491	best_f1:0.577335	
+epoch:3	loss:8.114941	f1:0.597160	precision:0.546954	recall:0.657513	best_f1:0.597160	
+test： f1:0.597160	precision:0.546954	recall:0.657513
